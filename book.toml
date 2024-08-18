@@ -1,7 +1,4 @@
 [book]
-title = "My C Book"
-
-[book]
 title = "Calculus Home"
 description = "The Calculus Course record from markdown files."
 authors = ["Toby Wang"]
