@@ -8,6 +8,9 @@ src = "src"
 [rust]
 edition = "2018"
 
+[output.html]
+mathjax-support = true
+
 [output.html.playground]
 editable = true
 line-numbers = true
@@ -20,9 +23,4 @@ boost-hierarchy = 2
 boost-paragraph = 1
 expand = true
 heading-split-level = 2
-
-[output.latex]
-latex    = true  # default = true
-pdf      = true  # default = false
-markdown = true  # default = false
 
